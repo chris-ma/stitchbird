@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  prep_time: MyString
+  instructions: MyText
+  materials: MyString
+
+two:
+  title: MyString
+  prep_time: MyString
+  instructions: MyText
+  materials: MyString
